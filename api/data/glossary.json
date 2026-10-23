@@ -1,0 +1,430 @@
+{
+  "metadata": {
+    "title": "AI Glossary",
+    "source_url": "https://hai.stanford.edu/ai-definitions",
+    "source_name": "Stanford HAI - Artificial Intelligence Glossary",
+    "note": "Terms follow the Stanford HAI glossary; definitions are paraphrased in original wording.",
+    "total_terms": 100
+  },
+  "terms": [
+    {
+      "term": "Adversarial Distillation Attack",
+      "definition": "An attack in which someone covertly manipulates how a model is trained or distilled so the resulting model behaves in a harmful or compromised way."
+    },
+    {
+      "term": "AGI",
+      "full_form": "Artificial General Intelligence",
+      "definition": "A hypothetical AI system able to learn and reason across nearly any domain at or above human level, rather than being limited to narrow tasks."
+    },
+    {
+      "term": "Agentic AI",
+      "definition": "AI systems that pursue goals with some independence: they plan steps, use tools such as browsers, code, or APIs, react to feedback, and adjust to finish a task."
+    },
+    {
+      "term": "AI Alignment",
+      "definition": "The work of making an AI system's objectives and behavior consistent with human values, intentions, and rules."
+    },
+    {
+      "term": "AI Benchmarks",
+      "definition": "Standardized tests used to score and compare AI systems on tasks such as question answering, image recognition, coding, or instruction following."
+    },
+    {
+      "term": "AI Fluency",
+      "definition": "The ability to work with AI effectively and responsibly, combining practical tool skills, critical evaluation of outputs, ethical awareness, and willingness to keep adapting."
+    },
+    {
+      "term": "AI Safety",
+      "definition": "The field concerned with keeping AI systems reliable and free from causing harm, including when they are highly capable, widely used, or facing unexpected conditions."
+    },
+    {
+      "term": "AI Tech Stack",
+      "definition": "The combined layers of hardware, software, and computing resources that support every stage of building and running AI systems."
+    },
+    {
+      "term": "AI Workflow",
+      "definition": "The end-to-end sequence for creating and operating an AI system, typically data preparation, training, testing, deployment, and ongoing maintenance."
+    },
+    {
+      "term": "Algorithm",
+      "definition": "A defined sequence of steps for solving a problem or finishing a task, much like a recipe."
+    },
+    {
+      "term": "Algorithmic Monoculture",
+      "definition": "A situation where many organizations rely on the same or very similar algorithms or training data, so their errors and biases become correlated."
+    },
+    {
+      "term": "Artificial Hivemind",
+      "definition": "A network of AI systems or agents that share information and coordinate their actions as if acting as one collective."
+    },
+    {
+      "term": "Artificial Intelligence",
+      "abbreviation": "AI",
+      "definition": "The field of building machines that perform tasks requiring intelligence. The term was introduced in 1955 by John McCarthy, who framed it as the science and engineering of making intelligent machines."
+    },
+    {
+      "term": "Attention Mechanism",
+      "definition": "A neural network technique that lets a model weigh which parts of its input matter most when producing each piece of output."
+    },
+    {
+      "term": "Automation",
+      "definition": "Using technology to carry out tasks that a human has explicitly specified, following predefined rules or parameters."
+    },
+    {
+      "term": "Backpropagation",
+      "definition": "The learning procedure in neural networks that traces errors backward through the layers to determine how each weight should be adjusted."
+    },
+    {
+      "term": "Bayesian Networks",
+      "definition": "Graphical models that use probabilities to show how variables influence one another, often depicting cause and effect."
+    },
+    {
+      "term": "Bias",
+      "definition": "Systematic skew in an AI system's outputs that unfairly favors or disadvantages certain groups of people."
+    },
+    {
+      "term": "Big Data",
+      "definition": "Datasets so large or complex that conventional tools cannot process them, often analyzed with AI to uncover patterns and trends."
+    },
+    {
+      "term": "Chatbot",
+      "definition": "A program that carries on conversations with people through text or speech."
+    },
+    {
+      "term": "Closed Source",
+      "alias": "Proprietary software",
+      "definition": "Software whose code is kept private, so the public cannot view, change, or reuse it."
+    },
+    {
+      "term": "Computer Vision",
+      "definition": "The area of AI that lets computers interpret and understand images and video."
+    },
+    {
+      "term": "Context Window",
+      "definition": "The maximum amount of input, such as text, a model can take into account at one time."
+    },
+    {
+      "term": "Contrastive Learning",
+      "definition": "A training approach where a model learns by comparing pairs of similar and dissimilar examples to see what sets them apart."
+    },
+    {
+      "term": "Data Augmentation",
+      "definition": "Enlarging a training set by producing altered copies of existing examples instead of gathering new data."
+    },
+    {
+      "term": "Data Mining",
+      "definition": "Finding patterns and trends in large datasets using statistics and machine learning."
+    },
+    {
+      "term": "Data Poisoning",
+      "definition": "An attack where someone deliberately inserts, edits, or mislabels training data to corrupt what a model learns."
+    },
+    {
+      "term": "Decision Tree",
+      "definition": "An algorithm that predicts outcomes by asking a series of yes/no questions about features, splitting the data until it reaches a conclusion."
+    },
+    {
+      "term": "Deep Learning",
+      "definition": "A branch of machine learning that uses many-layered neural networks to learn complex patterns from data automatically."
+    },
+    {
+      "term": "Diffusion Models",
+      "definition": "Generative models that create content such as images by learning to reverse a process of gradually adding noise."
+    },
+    {
+      "term": "Dimensionality Reduction",
+      "definition": "Simplifying data by cutting down the number of variables while keeping the most informative structure."
+    },
+    {
+      "term": "Embeddings",
+      "definition": "Numeric vector representations of items like words or images that encode their meaning or characteristics."
+    },
+    {
+      "term": "Ensemble Methods",
+      "definition": "Techniques that combine several models, often individually weak, to get predictions more accurate and stable than any single model gives."
+    },
+    {
+      "term": "Ethical AI",
+      "definition": "Designing, building, and deploying AI in line with human values, fairness, transparency, and social well-being."
+    },
+    {
+      "term": "Expert Systems",
+      "definition": "AI programs that imitate human specialists in a narrow domain using a knowledge base and mostly if-then rules."
+    },
+    {
+      "term": "Explainable AI",
+      "abbreviation": "XAI",
+      "definition": "Methods that make an AI system's decisions understandable to people instead of leaving it an opaque black box."
+    },
+    {
+      "term": "Federated Learning",
+      "definition": "Training a model across many devices or servers that each keep their own data locally, so raw data never has to be centralized."
+    },
+    {
+      "term": "Few-Shot Learning",
+      "definition": "The ability of a model to pick up a new task from only a handful of examples."
+    },
+    {
+      "term": "Fine-Tuning",
+      "definition": "Taking an already pre-trained model and training it further on task-specific or domain-specific data."
+    },
+    {
+      "term": "Foundation Models",
+      "definition": "Large models, usually transformers, trained on broad and varied data that can be adapted to many downstream applications."
+    },
+    {
+      "term": "Frontier Model",
+      "definition": "A general-purpose AI model at or near the cutting edge of current capability."
+    },
+    {
+      "term": "Generative AI",
+      "abbreviation": "GenAI",
+      "definition": "AI that produces new content such as text, images, music, code, or video."
+    },
+    {
+      "term": "GANs",
+      "full_form": "Generative Adversarial Networks",
+      "definition": "An architecture of two competing neural networks, a generator and a discriminator, that together learn to produce realistic synthetic data."
+    },
+    {
+      "term": "GPT",
+      "full_form": "Generative Pre-Trained Transformer",
+      "definition": "A family of large language models built on the transformer architecture that generate human-like text from prompts."
+    },
+    {
+      "term": "GPU",
+      "full_form": "Graphics Processing Unit",
+      "definition": "A chip, first made for rendering graphics, that performs many calculations in parallel and is widely used to train and run AI models."
+    },
+    {
+      "term": "Hallucinations",
+      "definition": "Cases where an AI system produces false or invented information and presents it as if it were true."
+    },
+    {
+      "term": "Human-Centered Artificial Intelligence",
+      "abbreviation": "HAI",
+      "definition": "An approach that puts human needs, values, and well-being at the center of designing and deploying AI."
+    },
+    {
+      "term": "Human-Computer Interaction",
+      "abbreviation": "HCI",
+      "definition": "The study and practice of how people use and engage with computer systems."
+    },
+    {
+      "term": "Human-in-the-Loop",
+      "definition": "A design in which people provide feedback or can intervene as part of an AI system's operation."
+    },
+    {
+      "term": "Hyperparameter",
+      "definition": "A setting chosen before training begins, as opposed to a value the model learns itself."
+    },
+    {
+      "term": "Hyperscaler",
+      "definition": "A very large technology company running massive data center networks that can quickly scale computing, storage, and cloud services."
+    },
+    {
+      "term": "Inference",
+      "definition": "When a trained model applies what it learned to make predictions or decisions on new, unseen data."
+    },
+    {
+      "term": "Interpretability",
+      "definition": "How well humans can understand the way an AI system reaches its decisions or predictions."
+    },
+    {
+      "term": "k-NN",
+      "full_form": "k-Nearest Neighbors",
+      "definition": "A simple algorithm for classification and regression that decides based on the closest examples in the data."
+    },
+    {
+      "term": "Knowledge Distillation",
+      "definition": "Training a smaller 'student' model to imitate the outputs of a larger, more capable 'teacher' model."
+    },
+    {
+      "term": "Knowledge Graph",
+      "definition": "A structured store of information shown as a network of entities and the relationships between them."
+    },
+    {
+      "term": "Large Language Model",
+      "abbreviation": "LLM",
+      "definition": "An AI system trained on huge amounts of text so it can understand and generate human-like language."
+    },
+    {
+      "term": "Latent Space",
+      "definition": "A compressed, abstract, lower-dimensional space in which a model represents the key features of data like images, text, or audio."
+    },
+    {
+      "term": "LLMOps",
+      "full_form": "Large Language Model Operations",
+      "definition": "The practices for managing the full lifecycle of LLM-based applications in production."
+    },
+    {
+      "term": "Loss Function",
+      "alias": "Cost function / objective function",
+      "definition": "A mathematical measure of how far a model's predictions are from the correct values."
+    },
+    {
+      "term": "Machine Learning",
+      "abbreviation": "ML",
+      "definition": "A branch of AI in which computers learn patterns from data and make decisions without being given explicit rules."
+    },
+    {
+      "term": "Markov Chain",
+      "definition": "A mathematical model of a sequence of events where the next event's probability depends only on the current state, not on earlier history."
+    },
+    {
+      "term": "MLOps",
+      "full_form": "Machine Learning Operations",
+      "definition": "A set of practices blending machine learning, software engineering, and DevOps to deploy, monitor, and maintain models reliably."
+    },
+    {
+      "term": "Model",
+      "definition": "A simplified mathematical or computational representation of a real-world process or relationship, used for prediction or understanding."
+    },
+    {
+      "term": "Model Drift",
+      "definition": "A decline in a model's performance over time because real-world data shifts away from what it was trained on."
+    },
+    {
+      "term": "Multimodal AI",
+      "definition": "AI that can handle and combine several types of data at once, such as text, images, audio, and video."
+    },
+    {
+      "term": "Natural Language Processing",
+      "abbreviation": "NLP",
+      "definition": "The area of AI focused on letting computers interpret and produce human language."
+    },
+    {
+      "term": "Neural Network",
+      "definition": "A computational model loosely inspired by the brain, made of layers of connected artificial neurons that pass information along."
+    },
+    {
+      "term": "Optimization Algorithm",
+      "definition": "A method that tunes a model's settings step by step so it makes fewer errors."
+    },
+    {
+      "term": "Overfitting",
+      "definition": "When a model memorizes its training data, including noise and quirks, and so performs poorly on new data."
+    },
+    {
+      "term": "Open-Source Model",
+      "definition": "An AI model whose weights, code, training data (or a thorough, auditable account of it), and tools are available for anyone to download, run, inspect, reproduce, and modify."
+    },
+    {
+      "term": "Open-Weight Model",
+      "definition": "An AI model whose trained weights are publicly released for download, even if other components such as training data are not."
+    },
+    {
+      "term": "Open Source",
+      "definition": "Software whose underlying design and code are freely available for anyone to view and use."
+    },
+    {
+      "term": "Parameter",
+      "definition": "An internal value in a model that is learned and adjusted during training."
+    },
+    {
+      "term": "Predictive Analytics",
+      "definition": "Using data, statistics, and machine learning to forecast future outcomes or trends."
+    },
+    {
+      "term": "Prompt Engineering",
+      "definition": "Carefully writing instructions, or prompts, to steer language models toward the output you want."
+    },
+    {
+      "term": "Prompt Injection",
+      "definition": "A security attack that uses crafted input to trick an LLM into behaving in ways its operators did not intend."
+    },
+    {
+      "term": "Retrieval-Augmented Generation",
+      "abbreviation": "RAG",
+      "definition": "A technique where a language model first looks up external, current information so its answers are better grounded."
+    },
+    {
+      "term": "Reasoning Model",
+      "definition": "An AI system built to tackle complex problems by working through a logical, step-by-step chain of thought."
+    },
+    {
+      "term": "Reinforcement Learning",
+      "definition": "A type of machine learning where an agent improves through trial and error by acting in an environment and receiving feedback."
+    },
+    {
+      "term": "Responsible AI",
+      "definition": "The principles, frameworks, and practices that guide ethical and safe development and use of AI."
+    },
+    {
+      "term": "Robotics",
+      "definition": "The field combining engineering and computer science, increasingly with AI, to build machines that perform physical tasks."
+    },
+    {
+      "term": "Spatial Intelligence",
+      "definition": "The capacity to understand and reason about the 3D physical world, including how objects are positioned, move, and interact."
+    },
+    {
+      "term": "Self-Supervised Learning",
+      "definition": "A training method where a model creates its own learning tasks from raw, unlabeled data and learns by solving them."
+    },
+    {
+      "term": "Semantic Analysis",
+      "definition": "Working out the meaning of language by studying how words, phrases, and symbols relate to each other."
+    },
+    {
+      "term": "Scaling Laws",
+      "definition": "Predictable mathematical patterns showing how model performance improves as model size, data, and compute grow."
+    },
+    {
+      "term": "Supervised Learning",
+      "definition": "A machine learning approach that trains on labeled data, where each input is paired with its correct output."
+    },
+    {
+      "term": "Synthetic Data",
+      "definition": "Artificially generated data produced by algorithms or simulations instead of being collected from real events."
+    },
+    {
+      "term": "Tensor",
+      "definition": "A container for numbers arranged in multiple dimensions, like a spreadsheet extended to more axes."
+    },
+    {
+      "term": "Tokenization",
+      "definition": "Splitting text into smaller units called tokens (words, word pieces, or characters) that a language model can process."
+    },
+    {
+      "term": "Traditional AI",
+      "definition": "Earlier approaches to AI that depended on hand-written rules, logic, and human-defined knowledge rather than learning from data."
+    },
+    {
+      "term": "Training Data",
+      "definition": "The collection of examples, such as text, images, or audio, used to teach a model how to do a task."
+    },
+    {
+      "term": "Transfer Learning",
+      "definition": "Reusing a model trained on one task as the starting point for a different but related task."
+    },
+    {
+      "term": "Transformer",
+      "definition": "A neural network architecture that uses attention to relate all parts of the input to one another at once rather than one step at a time."
+    },
+    {
+      "term": "Turing Test",
+      "definition": "A test proposed by Alan Turing in 1950 of whether a machine can behave so intelligently that it is indistinguishable from a human."
+    },
+    {
+      "term": "Unsupervised Learning",
+      "definition": "A machine learning approach where models look for patterns and structure in data that has no labels or predefined categories."
+    },
+    {
+      "term": "Vector Database",
+      "definition": "A database built to store and quickly search high-dimensional vectors that represent data such as text, images, or audio."
+    },
+    {
+      "term": "Vision Transformer",
+      "abbreviation": "ViT",
+      "definition": "An adaptation of the transformer architecture, originally made for language, to analyze images."
+    },
+    {
+      "term": "Weights",
+      "definition": "The numeric parameters in a neural network that set the strength of connections between neurons and shape how it processes information."
+    },
+    {
+      "term": "Zero-Shot Learning",
+      "definition": "A model's ability to handle tasks or recognize categories it was never explicitly trained on, using its general knowledge."
+    }
+  ]
+}
